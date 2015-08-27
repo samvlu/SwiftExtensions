@@ -1,1 +1,1 @@
-# Some Usefule Swift Extensions
+# Some Useful Swift Extensions
