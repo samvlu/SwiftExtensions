@@ -1,5 +1,5 @@
 # UIColorHex
-Use hexidecmal values with UIColor
+Use hexidecmal values with UIColor — Updated for Swift 2.0
 
 ### Install & Usage
 1. drag and drop "UIColorHex.swift" into project folder
@@ -10,9 +10,6 @@ Example:
 sampleTitle.textColor = UIColor(hex: 0x1B6FEF)
 ```
 
-##### Requirements
-Swift 2.0  
-iOS 9.0 or above  
+**Requirements** – Xcode 7, iOS 9, Swift 2.0
 
-##### License
-[MIT](http://thi.mit-license.org/)
+**License** – [MIT](http://thi.mit-license.org/)
